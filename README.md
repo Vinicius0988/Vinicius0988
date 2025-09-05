@@ -9,14 +9,14 @@
 
 ---
 
-## 🚀 Sobre Mim  
+## Sobre Mim  
 Sou estudante de **Análise e Desenvolvimento de Sistemas no SENAI Blumenau (2025–2028)** em transição de carreira para a área de TI.  
 Tenho foco em **desenvolvimento Back-End com Java e Spring**, mas também possuo experiência em **front-end com React**.  
 Apaixonado por **APIs RESTful, bancos de dados relacionais e boas práticas de código**.  
 
 ---
 
-## 🛠️ Habilidades Técnicas  
+## Habilidades Técnicas  
 
 ### Tecnologias  
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -36,7 +36,7 @@ APIs RESTful, POO, DTOs, Microserviços, Estruturas de Dados, Metodologias Ágei
 
 ---
 
-## 📌 Projetos Destacados  
+## Projetos Destacados  
 
 - **[Portfólio Online](https://vinicius0988.github.io)** – Website em React, HTML, CSS e JS com projetos pessoais.  
 - **Sistema de Gestão Acadêmica** – Aplicação em Java + Spring Boot + MySQL com CRUD completo.  
@@ -44,13 +44,13 @@ APIs RESTful, POO, DTOs, Microserviços, Estruturas de Dados, Metodologias Ágei
 
 ---
 
-## 🎓 Formação Acadêmica  
+## Formação Acadêmica  
 - **Superior em Análise e Desenvolvimento de Sistemas** – SENAI, Blumenau (2025–2028)  
 - **Técnico em Eletromecânica** – SENAI, Pomerode (2020–2022)  
 - **Aprendizagem Elétrica Industrial** – SENAI, Pomerode (2012–2013)  
 
 
-## 📖 Atualmente Aprendendo  
+## Atualmente Aprendendo  
 - Conceitos avançados de Spring Boot  
 - Arquitetura de Microserviços  
 - Pipelines de CI/CD  
