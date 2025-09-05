@@ -40,4 +40,3 @@ Portfólio: vinicius0988.github.io
 Email: viniv908@gmail.com
 
 </p>
-
