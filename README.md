@@ -2,10 +2,11 @@
 
 📍 Pomerode-SC  
 
-<!-- Badges de Contato com texto dentro da imagem, sem duplicar -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-siqueira908)
-[![E-mail](https://img.shields.io/badge/Email-Email-D44638?style=for-the-badge&logo=gmail&logoColor=white)](mailto:viniv908@gmail.com)
-[![Portfólio](https://img.shields.io/badge/Portfólio-Online-4ABF4F?style=for-the-badge&logo=google-chrome&logoColor=white)](https://vinicius0988.github.io)
+<!-- Badges estilo da sua imagem -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2)](https://www.linkedin.com/in/vinicius-siqueira908)
+[![GitHub](https://img.shields.io/badge/GitHub-GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717)](https://github.com/Vinicius0988)
+[![Email](https://img.shields.io/badge/Email-Email-D44638?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D44638)](mailto:viniv908@gmail.com)
+
 
 ## Sobre Mim  
 Sou estudante de **Análise e Desenvolvimento de Sistemas no SENAI Blumenau (2025–2028)** em transição de carreira para a área de TI.  
