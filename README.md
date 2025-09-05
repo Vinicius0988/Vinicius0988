@@ -6,7 +6,7 @@
 ---
 
 ## 🚀 Sobre Mim  
-Sou estudante de **Análise e Desenvolvimento de Sistemas no SENAI Blumenau (2025–2028)** e em transição de carreira para a área de TI.  
+Sou estudante de **Análise e Desenvolvimento de Sistemas no SENAI Blumenau (2025–2028)** em transição de carreira para a área de TI.  
 Tenho foco em **desenvolvimento Back-End com Java e Spring**, mas também possuo experiência em **front-end com React**.  
 Apaixonado por **APIs RESTful, bancos de dados relacionais e boas práticas de código**.  
 
