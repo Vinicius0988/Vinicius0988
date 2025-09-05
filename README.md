@@ -1,7 +1,9 @@
 # Vinicius Torquato de Siqueira – Desenvolvedor Back-End  
 
-📍 Pomerode-SC  
-✉️ [E-mail](mailto:viniv908@gmail.com) | 💻 [GitHub](https://github.com/Vinicius0988) | 🔗 [LinkedIn](https://www.linkedin.com/in/vinicius-siqueira908) | 🌐 [Portfólio](https://vinicius0988.github.io)  
+[![E-mail](https://img.shields.io/badge/E-mail-viniv908@gmail.com-c14438?style=for-the-badge&logo=gmail&logoColor=white)](mailto:viniv908@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Vinicius0988-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vinicius0988)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vinicius_Siqueira-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-siqueira908)
+[![Portfólio](https://img.shields.io/badge/Portfólio-Online-4ABF4F?style=for-the-badge&logo=google-chrome&logoColor=white)](https://vinicius0988.github.io)
 
 ---
 
