@@ -1,4 +1,4 @@
-# Vinicius Torquato de Siqueira – Desenvolvedor Back-End  
+# Vinicius Torquato de Siqueira – Desenvolvedor Full-Stack  
 
 📍 Bluemenau-SC  
 
