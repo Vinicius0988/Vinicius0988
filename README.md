@@ -1,6 +1,6 @@
 # Vinicius Torquato de Siqueira – Desenvolvedor Back-End  
 
-📍 Pomerode-SC  
+📍 Bluemenau-SC  
 
 <!-- Badges estilo da sua imagem -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2)](https://www.linkedin.com/in/vinicius-siqueira908)
