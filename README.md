@@ -34,7 +34,11 @@ Apaixonado por **APIs RESTful, bancos de dados relacionais e boas práticas de c
 APIs RESTful, POO, DTOs, Microserviços, Estruturas de Dados, Metodologias Ágeis, Arquitetura em Camadas, Clean Code.  
 
 ---
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Vinicius0988/Vinicius0988/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
 
+---
 ## Projetos Destacados  
 
 - **[Portfólio Online](https://vinicius0988.github.io)** – Website em React, HTML, CSS e JS com projetos pessoais.  
